@@ -1,0 +1,105 @@
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	font-size:14px;
+	font-weight:bold;
+	font-family: sans-serif;
+	background-image:url("tree.jpg");
+	background-size:cover;	
+}
+.name{
+	color:#402232;
+	font-size:22px;
+	font-style:italic;
+	font-family: times new roman;
+	height:30%;
+	width:100%;
+	text-decoration:blink;
+	padding-top:0;
+	background-color:;
+	
+}
+
+.nav{
+	padding-right:20px;
+	height:40%;
+	text-align:right;
+	padding-top:0;
+	width:100%;
+	float:right;
+	color:#402232;
+	background-color:;
+}
+
+.nav a{
+	text-decoration:none;
+	font-size:14px;
+	font-family:arial;
+	font-style:italic;
+	color:#402232;
+	text-align:center;
+	padding-top:0;
+}
+
+.selected{
+	font-weight:bold;
+}
+
+.description{
+	float:right;
+	width:100%;
+	height:auto;
+	padding-right:10px;
+	padding-top:0;
+	color:black;
+	font-size:40px;
+	font-family: harrington;
+	background-color:;
+	text-shadow:4px 4px 8px white;
+}
+.personal{
+	font-weight: bold;
+	color:black;
+	width: 100%;
+	height:auto;
+	font-size:30px;
+	text-align:center;
+	font-family: times new roman;
+	margin-top:40px;
+	text-shadow:4px 4px 8px #FFF8C2;
+	
+}
+
+.educational{
+	
+	color:black;
+	float:left;
+	width: 45%;
+	height:auto;
+	font-size:28px;
+	padding-left:10px;
+	margin-top:20px;
+	text-align:center;
+	text-shadow:4px 4px 8px #FFF8C2;
+}
+.hobbies{
+	
+	color:black;
+	float:right;
+	width: 45%;
+	text-align:center;
+	height:auto;
+	font-size:28px;
+	padding-right:10px;
+	margin-top:20px;
+	text-shadow:4px 4px 8px #FFF8C2;
+}
+.bottom{
+	clear:both;
+	font-style:italic;
+	color:white;
+	text-align:right;
+	padding-left:28px;
+}
